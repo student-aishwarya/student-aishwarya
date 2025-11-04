@@ -13,7 +13,7 @@
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <a href="mailto:gajmeraishwarya@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/aishwarya-gajmer" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
+
 <a href="https://github.com/student-aishwarya" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="30" width="30" /></a>
 </p>
 
