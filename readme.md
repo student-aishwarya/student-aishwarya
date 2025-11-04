@@ -1,18 +1,20 @@
 <h1 align="center">Hi 👋, I'm Aishwarya</h1>
-<h3 align="center">A passionate Full Stack Developer from Nepal</h3>
+<h3 align="center">"Exploring the art of clean code and elegant design 💻✨"</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
-- 🔭 I’m currently working on **JavaScript Projects**  
-- 🌱 I’m currently learning **Laravel and Vue.js**  
-- 👯 I’m looking to collaborate on **Laravel & Vue.js projects**  
-- 📫 How to reach me: **gajmeraishwarya@gmail.com**  
+
+- 🚀 Currently crafting cool things with **JavaScript** and exploring the magic of **Laravel** & **Vue.js**  
+-🌱 Always learning, always building — turning ideas into interactive experiences  
+-🤝 Excited to collaborate on projects that challenge creativity and code  
+
+
 
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<a href="mailto:gajmeraishwarya@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /></a>
+
 
 <a href="https://github.com/student-aishwarya" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="30" width="30" /></a>
 </p>
