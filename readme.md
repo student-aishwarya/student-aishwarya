@@ -48,11 +48,3 @@
 </p>
 
 ---
-
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=student-aishwarya&show_icons=true&locale=en&layout=compact&theme=radical" alt="student-aishwarya" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=student-aishwarya&show_icons=true&locale=en&theme=radical" alt="student-aishwarya" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=student-aishwarya&theme=radical" alt="student-aishwarya" /></p>
